@@ -106,10 +106,6 @@ ul li {
   margin-bottom: 0.5em;
 }
 
-section#wrap-up {
-  text-align: center;
-}
-
 #back-to-top {
   position: fixed;
   bottom: 70px;   /* Increased bottom margin to avoid footer overlap */
